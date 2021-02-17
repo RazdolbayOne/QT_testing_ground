@@ -13,6 +13,10 @@
   <property name="windowTitle">
    <string>TextFinder</string>
   </property>
+  <property name="windowIcon">
+   <iconset>
+    <normaloff>../../../Desktop/pepe.png</normaloff>../../../Desktop/pepe.png</iconset>
+  </property>
   <layout class="QVBoxLayout" name="verticalLayout">
    <item>
     <widget class="QSplitter" name="splitter">
